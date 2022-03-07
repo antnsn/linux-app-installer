@@ -1,0 +1,34 @@
+autojump
+awesome-terminal-fonts
+brave-bin' # Brave Browse
+google-chrome
+onedriver-git
+prusa-slicer
+remmina-git
+remmina-plugin-rdesktop
+teams
+caprine
+dxvk-bin' # DXVK DirectX to Vulca
+github-desktop-bin' # Github Desktop syn
+lightly-git
+lightlyshaders-git
+mangohud' # Gaming FPS Counte
+mangohud-common
+nerd-fonts-fira-code
+nordic-darker-standard-buttons-theme
+nordic-darker-theme
+nordic-kde-git
+nordic-theme
+noto-fonts-emoji
+papirus-icon-theme
+sddm-nordic-theme-git
+snapper-gui-git
+ttf-font-awesome
+ttf-droid
+ttf-hack
+ttf-meslo' # Nerdfont packag
+ttf-roboto
+snap-pac
+pamac-aur
+ocs-url
+sddm-nordic-theme-git
